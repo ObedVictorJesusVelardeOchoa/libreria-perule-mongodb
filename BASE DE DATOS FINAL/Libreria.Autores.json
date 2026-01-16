@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "686203670156fa9a1592e4fb"
+  },
+  "nombre": "Isabel Allende",
+  "nacionalidad": "Chilena"
+},
+{
+  "_id": {
+    "$oid": "686203670156fa9a1592e4fc"
+  },
+  "nombre": "Mario Vargas Llosa",
+  "nacionalidad": "Peruano"
+},
+{
+  "_id": {
+    "$oid": "686203670156fa9a1592e4fd"
+  },
+  "nombre": "Julio Cortázar",
+  "nacionalidad": "Argentino"
+},
+{
+  "_id": {
+    "$oid": "686203670156fa9a1592e4fe"
+  },
+  "nombre": "Carlos Fuentes",
+  "nacionalidad": "Mexicano"
+},
+{
+  "_id": {
+    "$oid": "686203670156fa9a1592e4ff"
+  },
+  "nombre": "Pablo Neruda",
+  "nacionalidad": "Chilena"
+}]

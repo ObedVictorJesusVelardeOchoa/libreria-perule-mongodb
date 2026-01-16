@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "686204bb0156fa9a1592e508"
+  },
+  "titulo": "La casa de los espíritus",
+  "autor_id": {
+    "$oid": "686203670156fa9a1592e4fb"
+  },
+  "precio": 22.5,
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "686204bb0156fa9a1592e509"
+  },
+  "titulo": "La ciudad y los perros",
+  "autor_id": {
+    "$oid": "686203670156fa9a1592e4fc"
+  },
+  "precio": 18.75,
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "686204bb0156fa9a1592e50a"
+  },
+  "titulo": "Rayuela",
+  "autor_id": {
+    "$oid": "686203670156fa9a1592e4fd"
+  },
+  "precio": 20,
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "686204bb0156fa9a1592e50b"
+  },
+  "titulo": "Aura",
+  "autor_id": {
+    "$oid": "686203670156fa9a1592e4fe"
+  },
+  "precio": 15.99,
+  "stock": 35
+},
+{
+  "_id": {
+    "$oid": "686204bb0156fa9a1592e50c"
+  },
+  "titulo": "Veinte poemas de amor",
+  "autor_id": {
+    "$oid": "686203670156fa9a1592e4ff"
+  },
+  "precio": 12.99,
+  "stock": 50
+}]

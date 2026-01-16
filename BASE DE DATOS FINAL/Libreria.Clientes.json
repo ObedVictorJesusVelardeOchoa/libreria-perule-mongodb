@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "927b14de1a8f150609c644f6"
+  },
+  "nombre": "Carmen",
+  "email": "Carmen@mail.com",
+  "telefono": "+573009400000",
+  "direccion": "Calle 47 # 32-21, Perú",
+  "fecha_registro": {
+    "$date": "2025-06-26T19:13:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ac8edb26c6bd49b3c1c55920"
+  },
+  "nombre": "Mirta",
+  "email": "Mirta@mail.com",
+  "telefono": "+573005000000",
+  "direccion": "Calle 63 # 18-33, Perú",
+  "fecha_registro": {
+    "$date": "2024-12-13T19:13:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "469f9d44f8e7c3cd49231e78"
+  },
+  "nombre": "Marcos",
+  "email": "Marcos@mail.com",
+  "telefono": "+573006500000",
+  "direccion": "Calle 31 # 22-37, Perú",
+  "fecha_registro": {
+    "$date": "2025-06-15T19:13:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "20263cc39a92dc01de6e1f81"
+  },
+  "nombre": "Jose",
+  "email": "Jose@mail.com",
+  "telefono": "+573008600000",
+  "direccion": "Calle 23 # 20-31, Perú",
+  "fecha_registro": {
+    "$date": "2024-11-24T19:13:59.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9f2aa63b196ef24440e7fdce"
+  },
+  "nombre": "Sofia",
+  "email": "Sofia@mail.com",
+  "telefono": "+573003500000",
+  "direccion": "Calle 100 # 35-16, Perú",
+  "fecha_registro": {
+    "$date": "2025-01-05T19:13:59.000Z"
+  }
+}]

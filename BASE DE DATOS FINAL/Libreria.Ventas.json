@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "26de8a69bf6eea3318dff534"
+  },
+  "libro_id": {
+    "$oid": "686204bb0156fa9a1592e508"
+  },
+  "cliente_id": {
+    "$oid": "927b14de1a8f150609c644f6"
+  },
+  "fecha": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "cantidad": 3
+},
+{
+  "_id": {
+    "$oid": "ecce6997d09bb3475066d242"
+  },
+  "libro_id": {
+    "$oid": "686204bb0156fa9a1592e509"
+  },
+  "cliente_id": {
+    "$oid": "ac8edb26c6bd49b3c1c55920"
+  },
+  "fecha": {
+    "$date": "2025-07-03T00:00:00.000Z"
+  },
+  "cantidad": 3
+},
+{
+  "_id": {
+    "$oid": "bbafe4e9d83a2b7e6e86a0dc"
+  },
+  "libro_id": {
+    "$oid": "686204bb0156fa9a1592e50a"
+  },
+  "cliente_id": {
+    "$oid": "469f9d44f8e7c3cd49231e78"
+  },
+  "fecha": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "cantidad": 1
+},
+{
+  "_id": {
+    "$oid": "f2b6d1feab4e94294793720a"
+  },
+  "libro_id": {
+    "$oid": "686204bb0156fa9a1592e50b"
+  },
+  "cliente_id": {
+    "$oid": "20263cc39a92dc01de6e1f81"
+  },
+  "fecha": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "cantidad": 4
+},
+{
+  "_id": {
+    "$oid": "cfd66f38b51cd2915afd87b4"
+  },
+  "libro_id": {
+    "$oid": "686204bb0156fa9a1592e50c"
+  },
+  "cliente_id": {
+    "$oid": "9f2aa63b196ef24440e7fdce"
+  },
+  "fecha": {
+    "$date": "2025-07-09T00:00:00.000Z"
+  },
+  "cantidad": 2
+}]

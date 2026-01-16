@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "c0395caae9c71abd6b3092a0"
+  },
+  "tipo": "Plumón",
+  "marca": "Faber-Castell",
+  "color": "Azul",
+  "precio": 4.73,
+  "stock": 130
+},
+{
+  "_id": {
+    "$oid": "0c890557a549d643b4cd73be"
+  },
+  "tipo": "Lapicero",
+  "marca": "Bic",
+  "color": "Negro",
+  "precio": 4.58,
+  "stock": 187
+},
+{
+  "_id": {
+    "$oid": "6e5d2864e15687d76de86399"
+  },
+  "tipo": "Borrador",
+  "marca": "Staedtler",
+  "color": "Rojo",
+  "precio": 4.76,
+  "stock": 32
+},
+{
+  "_id": {
+    "$oid": "38827af258206315b55dd924"
+  },
+  "tipo": "Marcador",
+  "marca": "Sharpie",
+  "color": "Verde",
+  "precio": 3.62,
+  "stock": 161
+},
+{
+  "_id": {
+    "$oid": "5c01dc5c4637cfc1ede38251"
+  },
+  "tipo": "Resaltador",
+  "marca": "Pilot",
+  "color": "Amarillo",
+  "precio": 1.61,
+  "stock": 102
+}]
